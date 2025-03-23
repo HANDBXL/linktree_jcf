@@ -1,3 +1,5 @@
+![Preview](preview-linktree.png)
+
 # Linktree Clone
 
 This project is a **Linktree clone** built with **HTML** and **CSS**.
@@ -10,5 +12,3 @@ It allows users to create a personalized link page to gather multiple social med
 **Simple design**
 
 Compatible with all modern browsers
-
-![Description de l'image](linktree_jcf/footer_image.png)
