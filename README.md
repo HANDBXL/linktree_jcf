@@ -10,3 +10,5 @@ It allows users to create a personalized link page to gather multiple social med
 **Simple design**
 
 Compatible with all modern browsers
+
+![Description de l'image](linktree_jcf/footer_image.png)
